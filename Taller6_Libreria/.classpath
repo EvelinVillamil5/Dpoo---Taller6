@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Taller6_Libreria/src"/>
+	<classpathentry kind="lib" path="__MACOSX/Taller6_Libreria/lib/._flatlaf-1.0.jar"/>
+	<classpathentry kind="lib" path="Taller6_Libreria/lib/flatlaf-1.0.jar"/>
+	<classpathentry kind="output" path="Taller6_Libreria/bin"/>
+</classpath>
